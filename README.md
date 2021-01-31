@@ -14,5 +14,5 @@ and cd into exaplesite
 # start 
 hugo server  
   
-open your broser to http://localhost:1313/  
+open your browser to http://localhost:1313/  
 you can see your themes's example site  

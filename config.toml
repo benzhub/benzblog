@@ -1,7 +1,7 @@
 # default config
-baseurl = "https://examplesite.org"
-languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+baseurl = "https://benzhub.github.io"
+languageCode = "zh-tw"
+title = "Ben'z Code Blog"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -71,12 +71,12 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Ben's Code Blog"
 # Preloader
 preloader = true
 # search
@@ -87,7 +87,7 @@ author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
 mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
+email = "lenrich1403@gmail.com"
 address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
@@ -121,4 +121,4 @@ url = "#"
 
 [[params.social]]
 icon = "ti-github"
-url = "#"
+url = "https://github.com/benzhub"
