@@ -82,13 +82,13 @@ preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "Ben z"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
 # mobile = "+90 000 333 22"
 email = "lenrich1403@gmail.com"
-# address = "6 rip carl Avenue CA 90733"
+# address = ""
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
