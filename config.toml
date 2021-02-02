@@ -86,15 +86,15 @@ author = "John Doe"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-mobile = "+90 000 333 22"
+# mobile = "+90 000 333 22"
 email = "lenrich1403@gmail.com"
-address = "6 rip carl Avenue CA 90733"
+# address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2021 by [BenzHub](https://benzhub.github.io)"
 
 # Instagram feed
 [params.instafeed]
@@ -106,18 +106,18 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 enable = true
 expire_days = 2
 
-# social site
-[[params.social]]
-icon = "ti-facebook"
-url = "#"
+# # social site
+# [[params.social]]
+# icon = "ti-facebook"
+# url = "#"
 
-[[params.social]]
-icon = "ti-twitter-alt"
-url = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt"
+# url = "#"
 
-[[params.social]]
-icon = "ti-linkedin"
-url = "#"
+# [[params.social]]
+# icon = "ti-linkedin"
+# url = "#"
 
 [[params.social]]
 icon = "ti-github"

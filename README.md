@@ -1,5 +1,5 @@
 #  install  
-sudo curl https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_extended_0.80.0_Linux-64bit.deb  
+sudo wget https://github.com/gohugoio/hugo/releases/download/v0.80.0/hugo_extended_0.80.0_Linux-64bit.deb  
 sudo chmod +x *.deb  
 sudo dpkg -i sudo dpkg -i hugo_extended_0.80.0_Linux-64bit.deb  
 
