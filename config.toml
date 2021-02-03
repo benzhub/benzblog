@@ -3,7 +3,7 @@ baseurl = "https://benzhub.github.io"
 languageCode = "zh-tw"
 title = "Ben'z Code Blog"
 theme = "parsa-hugo"
-summaryLength = "10"
+summaryLength = "1"
 paginate = 6
 
 # output
@@ -82,11 +82,11 @@ preloader = true
 # search
 search = true
 # about author
-author = "Ben z"
+author = "Ben Z"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I impersonated the unicorn"
 # Contact info
-# mobile = "+90 000 333 22"
+# mobile = ""
 email = "lenrich1403@gmail.com"
 # address = ""
 # Contact Form Action
