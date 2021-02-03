@@ -41,7 +41,7 @@ docker build -t lenrich1403/test-image-build002 --build-arg my_name_is="Dan Hook
 #登入docker 帳號#輸入你的帳號密碼
 docker login
 #上傳  一定要帶你自己的帳號
-docker pull lenrich1403/test-image-build
+docker push lenrich1403/test-image-build
 ```
 
 #### 清理不需要的image

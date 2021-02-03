@@ -1,5 +1,5 @@
 ---
-title: "如何在ubuntu18.04上正確安裝 python scrapy 框架"
+title: "Scrapy教學系列01 如何在ubuntu18.04上正確安裝 python scrapy 框架"
 date: 2021-02-01T14:46:10+08:00
 description: "如何正確安裝 python scrapy 框架"
 type: "post"
