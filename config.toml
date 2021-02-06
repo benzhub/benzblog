@@ -44,28 +44,54 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
+name = "Docker 教學系列"
 url = ""
 weight = 1
 hasChildren = true
 
   [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 1"
-  url = "homepage/home-1"
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列01 在不同os上使用安裝"
+  url = "/docker-01/"
 
   [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 2"
-  url = "homepage/home-2"
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列02 image基本操作"
+  url = "/docker-02/"
+
+  [[menu.main]]
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列03 container基本操作"
+  url = "/docker-03/"
+
+  [[menu.main]]
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列04 Dockerfile基本操作"
+  url = "/docker-04/"
+
+  [[menu.main]]
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列05 docker container 網路模式介紹"
+  url = "/docker-05/"
 
 [[menu.main]]
-name = "About"
+name = "程式煉金術"
+url = ""
+weight = 1
+hasChildren = true
+
+  [[menu.main]]
+  parent = "程式煉金術"
+  name = "程式煉金術-Python 超入門01"
+  url = "/python-make-money-001/"
+
+[[menu.main]]
+name = "關於我"
 url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "聯絡我"
 url = "contact"
 weight = 3
 
