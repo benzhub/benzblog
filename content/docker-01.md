@@ -8,7 +8,7 @@ categories:
   - "Docker"
 tags:
   - "Docker"
-  -  "Docker 教學系列"
+  - "Docker 教學系列"
 ---
 
 #### Linux 上面安裝docker

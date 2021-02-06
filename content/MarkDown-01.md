@@ -23,7 +23,7 @@ tags:
 
 順帶一提,本站https://benzhub.github.io也是使用MarkDown語法做出來的喔!!
 
-下面為大家介紹 markdown的入門,即使沒有要寫成相本站部落格,下次在寫github的README.md說明文件時,也能更圖文並茂,得心應手
+下面為大家介紹 markdown的入門,即使沒有要寫成像本站部落格,下次在寫github的README.md說明文件時,也能更圖文並茂,得心應手
 
 
 #### 1.內文  
