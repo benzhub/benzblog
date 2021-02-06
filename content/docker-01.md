@@ -8,6 +8,7 @@ categories:
   - "Docker"
 tags:
   - "Docker"
+  -  "Docker 教學系列"
 ---
 
 #### Linux 上面安裝docker
@@ -37,6 +38,7 @@ sudo yum install docker-ce
 ##### ubuntu 上安裝
 ```bash
 sudo apt -y install docker.io
+sudo apt -y install docker-compose
 ```
 
 ##### 查看是否安裝成功

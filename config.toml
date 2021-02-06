@@ -74,6 +74,11 @@ hasChildren = true
   name = "Docker 教學系列05 docker container 網路模式介紹"
   url = "/docker-05/"
 
+  [[menu.main]]
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列06 docker volume 介紹"
+  url = "/docker-06/"
+
 [[menu.main]]
 name = "程式煉金術"
 url = ""
@@ -84,6 +89,17 @@ hasChildren = true
   parent = "程式煉金術"
   name = "程式煉金術-Python 超入門01"
   url = "/python-make-money-001/"
+
+[[menu.main]]
+name = "Git教學系列"
+url = ""
+weight = 1
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Git教學系列"
+  name = "Git 教學系列01 git常用指令整理"
+  url = "/git-01/"
 
 [[menu.main]]
 name = "關於我"
