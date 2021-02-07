@@ -106,6 +106,11 @@ hasChildren = true
   name = "Flask-Restful API 教學系列01 flask入門"
   url = "/flask-api-01/"
 
+  [[menu.main]]
+  parent = "Flask API"
+  name = "Flask-Restful API 教學系列02 Flask串接MySQL建立資源"
+  url = "/flask-api-02/"
+
 [[menu.main]]
 name = "Git教學系列"
 url = ""
@@ -116,6 +121,22 @@ hasChildren = true
   parent = "Git教學系列"
   name = "Git 教學系列01 git常用指令整理"
   url = "/git-01/"
+
+[[menu.main]]
+name = "MySQL教學系列"
+url = ""
+weight = 1
+hasChildren = true
+
+  [[menu.main]]
+  parent = "MySQL教學系列"
+  name = "MySQL 教學系列01 MySQL常用指令"
+  url = "/mysql-01/"
+
+  [[menu.main]]
+  parent = "MySQL教學系列"
+  name = "MySQL 教學系列02 MySQL安裝教學"
+  url = "/mysql-02/"
 
 [[menu.main]]
 name = "關於我"
