@@ -12,6 +12,7 @@ tags:
   - "MySQL"
 ---
 
+<<<<<<< HEAD
 #### pip 安裝 必要套件.
 ```bash
 #安裝 flask_restful
@@ -118,4 +119,5 @@ class Users(Resource):
 
 ----------------------------------
 ##### 下一篇我們將會開始建立Flask Restful-Api 的CRUD
+
 ###### [進入下一篇](/flask-api-03)
