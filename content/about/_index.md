@@ -5,7 +5,7 @@ description: "This is meta description"
 image: "images/logo2.png"
 ---
 
-癡迷於各種技術Python, PHP, Linux, React.js, Vue.js, Docker, Nginx, VMware, SEO
+癡迷於各種技術Python, PHP, Linux, React, Vue, Docker, Nginx, VMware, SEO
 
 也對行銷, 管理, 投資領域有興趣
 

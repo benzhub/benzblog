@@ -79,6 +79,11 @@ hasChildren = true
   name = "Docker 教學系列06 docker volume 介紹"
   url = "/docker-06/"
 
+  [[menu.main]]
+  parent = "Docker 教學系列"
+  name = "Docker 教學系列07 docker compose的使用介紹"
+  url = "/docker-07/"
+
 [[menu.main]]
 name = "程式煉金術"
 url = ""

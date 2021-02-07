@@ -25,6 +25,8 @@ git init
 
 #編輯中的test.js要回覆上一個commit狀態
 git checkout master test.js
+#針對單一文件(test.js)要回覆到指定的commit ID狀態
+git checkout <commit ID> -- test.js
 #把工作目錄也給還原到目前的最新版(commit)(一次把所有檔案都給還原了)
 git reset --hard
 #還原指定commit
@@ -47,11 +49,19 @@ git mv oldname newname
 git add .
 #建立git commit節點
 git commit -m "message"
+#修改最後一次commit,並且不修改-m的內容
+git commit --amend --no-edit
+#修改最後一次commit,並修改-m的內容
+git commit --amend -m "message"
+#刪除最近一次的版本紀錄，但留下最後一次版本變更的異動內容
+git reset --soft HEAD^
 
 #查看git 所有commit,並且每個單行
 git log --oneline
 #簡易圖形化 所有commit,並且每個單行
 git log --graph --oneline
+#查看所有歷史操作紀錄(可以查看未來的commit, 幫助回到未)
+git reflog
 
 #查看所有分支，查看目前所在分支
 git branch
