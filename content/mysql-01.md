@@ -26,6 +26,10 @@ CREATE TABLE `api`.`users` (
   `note` LONGTEXT NULL,
   PRIMARY KEY (`id`));
 
+#新增欄位:deleted
+ALTER TABLE `api`.`users` 
+ADD COLUMN `deleted` INT NULL AFTER `note`;
+
 #insert 新增資料
 INSERT INTO `api`.`users` (`name`, `gender`, `birth`, `note`) VALUES ('Jack', '0', '2000-01-01', 'Jack is a good boy.');
 

@@ -12,7 +12,6 @@ tags:
   - "MySQL"
 ---
 
-<<<<<<< HEAD
 #### pip 安裝 必要套件.
 ```bash
 #安裝 flask_restful
