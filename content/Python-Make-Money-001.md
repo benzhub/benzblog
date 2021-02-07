@@ -2,8 +2,8 @@
 title: "程式煉金術-Python 超入門01"
 date: 2021-02-02T14:46:10+08:00
 description: "這是一門教你如何用python煉金的入門課程，適合程式新手,中手,老手,高手高手高高手"
-type: "featured"
-image: "images/featured-post/python-logo.png"
+type: "post"
+image: "images/python-logo2.png"
 categories: 
   - "程式煉金術-Python 超入門"
 tags:

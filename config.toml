@@ -96,6 +96,17 @@ hasChildren = true
   url = "/python-make-money-001/"
 
 [[menu.main]]
+name = "Flask API"
+url = ""
+weight = 1
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Flask API"
+  name = "Flask-Restful API 教學系列01 flask入門"
+  url = "/flask-api-01/"
+
+[[menu.main]]
 name = "Git教學系列"
 url = ""
 weight = 1

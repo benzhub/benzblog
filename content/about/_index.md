@@ -13,5 +13,5 @@ image: "images/logo2.png"
 
 我的個人[github網址](https://github.com/benzhub)
 
-技術交流歡迎email:lenrich1403@gmail.com來信討論
+技術交流歡迎到<聯絡我>分頁來信討論
 
