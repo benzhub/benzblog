@@ -60,7 +60,7 @@ git reset --soft HEAD^
 git log --oneline
 #簡易圖形化 所有commit,並且每個單行
 git log --graph --oneline
-#查看所有歷史操作紀錄(可以查看未來的commit, 幫助回到未)
+#查看所有歷史操作紀錄(可以查看未來的commit, 幫助回到未來)
 git reflog
 
 #查看所有分支，查看目前所在分支
